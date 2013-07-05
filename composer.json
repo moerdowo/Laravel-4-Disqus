@@ -1,0 +1,24 @@
+{
+    "name": "totox777/disqus",
+    "description": "package to embed disqus html comment",
+    "license": "BSD-2-Clause",
+    "authors": [
+        {
+            "name": "@totox777",
+            "email": "totox@yoqizainteractive.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.0.x"
+    },
+    "autoload": {
+        "classmap": [
+            "src/migrations"
+        ],
+        "psr-0": {
+            "Totox777\\Disqus": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
