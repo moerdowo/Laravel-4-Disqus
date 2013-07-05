@@ -5,6 +5,18 @@ Laravel 4 Disqus package
 
 a package to embed disqus comment to your laravel application.
 
+----------------------
+add this line to your composer.json
+
+"totox777/disqus": "dev-master"
+
+and then, Run :
+
+composer update 
+
+to pull down the latest version of Twitter.
+-----------------------
+
 add this line to your app.php provider array:
 
 'Totox777\Disqus\DisqusServiceProvider',
