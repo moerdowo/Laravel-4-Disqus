@@ -12,10 +12,9 @@ add this line to your composer.json
 
 and then, Run :
 
-composer update 
+composer update  ,to pull down the latest version of Twitter.
 
-to pull down the latest version of Twitter.
------------------------
+
 
 add this line to your app.php provider array:
 
