@@ -1,6 +1,6 @@
 {
     "name": "totox777/disqus",
-    "description": "package to embed disqus html comment",
+    "description": "Laravel 4 package to embed disqus comment",
     "license": "BSD-2-Clause",
     "keywords": [
         "laravel",
