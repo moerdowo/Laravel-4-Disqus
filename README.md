@@ -10,7 +10,7 @@ add this line to your composer.json
 
 and then, Run :
 
-`composer update` to pull down the latest version of Twitter.
+`composer update` to pull down the latest version.
 
 
 
