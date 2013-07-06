@@ -3,7 +3,7 @@ Laravel-4-Disqus
 
 Laravel 4 Disqus package
 
-a package to embed disqus comment to your laravel application.
+a laravel 4 package to embed disqus comment to your application.
 
 ----------------------
 add this line to your composer.json
