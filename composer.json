@@ -2,6 +2,11 @@
     "name": "totox777/disqus",
     "description": "package to embed disqus html comment",
     "license": "BSD-2-Clause",
+    "keywords": [
+        "laravel",
+        "laravel4",
+        "disqus"
+    ],
     "authors": [
         {
             "name": "@totox777",
