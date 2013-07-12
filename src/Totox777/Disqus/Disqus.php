@@ -11,7 +11,7 @@ class Disqus {
 
     public function getHtml()
     {
-        echo "<div id='disqus_thread'></div>
+        return "<div id='disqus_thread'></div>
         <script type='text/javascript'>
             /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
             var disqus_shortname = '$this->disqus_shortname'; // Required - Replace example with your forum shortname
